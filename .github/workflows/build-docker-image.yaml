@@ -39,4 +39,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/PaulRBTC/animals-oop:${{ github.sha }}
+          tags: ghcr.io/paulrbtc/animals-oop:${{ github.sha }}
